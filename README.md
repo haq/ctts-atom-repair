@@ -1,6 +1,6 @@
 # ctts-atom-repair
 
-[Forceflow/MKVToolNix-missing-ctts-atom-repair](https://github.com/Forceflow/MKVToolNix-missing-ctts-atom-repair) but dockerized.
+[gbballpack/MKVToolNix-missing-ctts-atom-repair](https://github.com/gbballpack/MKVToolNix-missing-ctts-atom-repair) but dockerized.
 
 ## usage
 
